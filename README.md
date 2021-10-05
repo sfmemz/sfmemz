@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on: Nothing
+- 🔭 I’m currently working on: forking every single HTML5 games I found on github and throw them to my arcade (I will give credits, of cos)
 - 🌱 I’m currently learning: C++, Flash, and Scratch Game Development, and Schoolworks
 - 👯 I’m looking to collaborate on: some kind of indie games that isn't too complicated & doesn't eat my entire weekends
 - 🤔 I’m looking for help with: MY ENDLESS AMOUNT OF HOMEWORK
