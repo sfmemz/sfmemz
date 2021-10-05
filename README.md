@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: C++, Flash, and Scratch Game Development, and Schoolworks
 - 👯 I’m looking to collaborate on: some kind of indie games that isn't too complicated & doesn't eat my entire weekends
 - 🤔 I’m looking for help with: MY ENDLESS AMOUNT OF HOMEWORK
-- 💬 Ask me about: any kind of questions about Scratch, and simple questions about C++, Python and Actionscript 2
-- 📫 How to reach me: Discord: SuperfishMEMZ#9454
+- 💬 Ask me about: any kind of questions about Scratch and Easy Programming Language (some kind of VisualBasic clone that writes code entirely in Chinese), and simple questions about C++, Python and Actionscript 2
+- 📫 How to reach me: Discord: SuperfishMEMZ#9454, Twitter: @MemzSuperfish
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Twitter @FactsSuperfish contains all facts of myself (and MORE)
